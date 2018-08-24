@@ -6,13 +6,17 @@ Client and Server RFCOMM written in Python
 What you need
 -------------
 
-Install the next packages.
+Install the next software.
 
-`sudo apt-get install bluez libbluetooth-dev`
+`sudo apt-get install git bluez libbluetooth-dev`
 
-Install python **pybluez** module
+Install python **pybluez** module.
 
 `pip3 install pybluez`
+
+Clone this repository.
+
+`git clone https://github.com/gustavorv86/pyBluez`
 
 Server
 ------
@@ -21,7 +25,7 @@ Show the bluetooth devices.
 
 `hciconfig -a`
 
-Configure the bluetooth device
+Configure the bluetooth device.
 
 `hciconfig hci0 piscan`
 
