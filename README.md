@@ -1,5 +1,5 @@
-pyBluez Client and Server
-=========================
+py_bluez Client and Server
+==========================
 
 Client and Server RFCOMM written in Python
 
