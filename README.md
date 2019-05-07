@@ -16,7 +16,7 @@ Install python **pybluez** module.
 
 Clone this repository.
 
-`git clone https://github.com/gustavorv86/pyBluez`
+`git clone https://github.com/gustavorv86/py_bluez`
 
 Server
 ------
